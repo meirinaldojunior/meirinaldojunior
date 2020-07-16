@@ -6,4 +6,4 @@
 
 Currently I play the role of Full stack developer at Brazilian Northeast Union of SDAC and Zeropay Insurances, where I also designate the role of Cloud/DevOps consultant. Evangelist AWS, Wordpress, Node, React Family, Laravel and GitHub (and other things), a nerd fan of star wars and a root gamer.
 
-I am currently venturing heavily into building chatbots (conversational interfaces) and scalable systems.
+Now, i'm venturing heavily into building chatbots (conversational interfaces) and scalable systems.
