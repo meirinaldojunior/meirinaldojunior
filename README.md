@@ -7,3 +7,7 @@
 Currently I play the role of Full stack developer at Brazilian Northeast Union of SDA and Zeropay Insurances, where I also designate the role of Cloud/DevOps consultant. Evangelist AWS, Wordpress, Node, React Family, Laravel and GitHub (and other things), a nerd fan of star wars and a root gamer.
 
 Now, i'm venturing heavily into building chatbots (conversational interfaces) and scalable systems.
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=meirinaldojunior&count_private=true&include_all_commits=1&show_icons=1&theme=onedark&card_width=2000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meirinaldojunior&layout=compact&theme=onedark&count_private=true&card_width=400&line_height=1000)
