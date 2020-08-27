@@ -10,4 +10,4 @@ Now, i'm venturing heavily into building chatbots (conversational interfaces) an
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=meirinaldojunior&count_private=true&include_all_commits=1&show_icons=1&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meirinaldojunior&layout=compact&theme=onedark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meirinaldojunior&layout=compact&theme=onedark&count_private=true&&hide=java)
