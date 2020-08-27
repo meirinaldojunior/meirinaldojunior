@@ -9,5 +9,5 @@ Currently I play the role of Full stack developer at Brazilian Northeast Union o
 Now, i'm venturing heavily into building chatbots (conversational interfaces) and scalable systems.
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=meirinaldojunior&count_private=true&include_all_commits=1&show_icons=1&theme=onedark&card_width=2000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meirinaldojunior&layout=compact&theme=onedark&count_private=true&card_width=400&line_height=1000)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=meirinaldojunior&count_private=true&include_all_commits=1&show_icons=1&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meirinaldojunior&layout=compact&theme=onedark&count_private=true)
